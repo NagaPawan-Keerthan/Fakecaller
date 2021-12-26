@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pawan/AndroidStudioProjects/Integrated/app/src/main/res/layout/activity_call_schedule_now.xml" value="0.1" />
+        <entry key="..\:/Users/pawan/AndroidStudioProjects/Integrated/app/src/main/res/layout/activity_fake_911_call.xml" value="0.1" />
+        <entry key="..\:/Users/pawan/AndroidStudioProjects/Integrated/app/src/main/res/layout/activity_fake__incomming_call.xml" value="0.10326086956521739" />
+        <entry key="..\:/Users/pawan/AndroidStudioProjects/Integrated/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/pawan/AndroidStudioProjects/Integrated/app/src/main/res/layout/fake_call.xml" value="0.1" />
+        <entry key="..\:/Users/pawan/AndroidStudioProjects/Integrated/app/src/main/res/layout/fakeui_xml.xml" value="0.11956521739130435" />
+        <entry key="..\:/Users/pawan/AndroidStudioProjects/Integrated/app/src/main/res/layout/fragment_main.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
